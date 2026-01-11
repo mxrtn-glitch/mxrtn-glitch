@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=2000&pause=500&color=39FF14&center=true&vCenter=true&width=600&lines=ACCESSING+KERNEL...;BYPASSING+FIREWALLS...;DECRYPTING+PROJECTS...;DOCKER+CONTAINERS+ONLINE;HELLO+WORLD;COFFEE+LEVELS+CRITICAL" alt="Hacker Typing SVG" />
+  </a>
+</p>
+
 <div align="center">
 
 # MARTIN III
